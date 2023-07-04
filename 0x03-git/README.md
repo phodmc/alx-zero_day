@@ -1,1 +1,3 @@
-My first readme
+#ALX - Zero Day
+
+## 0x03 - Git
